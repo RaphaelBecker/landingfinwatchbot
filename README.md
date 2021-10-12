@@ -1,3 +1,4 @@
 # landing-finwatchbot
 
-https://raphaelbecker.github.io/landingfinwatchbot/
+# url:
+https://raphaelbecker.github.io/landingfinwatchbot/index.html
