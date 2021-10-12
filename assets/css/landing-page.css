@@ -938,7 +938,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#232526', end
     background: -webkit-radial-gradient(center, ellipse cover,  #1e5799 0%,rgba(54, 151, 142, 0.8)  0%,#0C526C 100%,#3d7eaa 100%,#182848 100%,#6e48aa 100%,#6e48aa 100%); /* Chrome10+,Safari5.1+ */
     background: -o-radial-gradient(center, ellipse cover,  #1e5799 0%,rgba(54, 151, 142, 0.8)  0%,#0C526C 100%,#3d7eaa 100%,#182848 100%,#6e48aa 100%,#6e48aa 100%); /* Opera 12+ */
     background: -ms-radial-gradient(center, ellipse cover,  #1e5799 0%,rgba(54, 151, 142, 0.8)  0%,#0C526C 100%,#3d7eaa 100%,#182848 100%,#6e48aa 100%,#6e48aa 100%); /* IE10+ */
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(28,9,121,0.5592612044817927) 0%, rgba(0,127,255,0.39959733893557425) 88%);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(28,9,121,0.5592612044817927) 0%, rgba(0,123,255,0.39959733893557425) 52%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(54, 151, 142, 0.8) ', endColorstr='#6e48aa',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 .filter-gradient.green:after{
